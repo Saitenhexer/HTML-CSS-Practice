@@ -14,8 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://saitenhexer.github.io/HTML-CSS-Practice/
 
 ## My process
 
@@ -29,6 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Positioning with Flexbox was the main thing I learned in this exercise.
 I had a bit of trouble with the margins for the two paragraphs below the QR image. I think this could be done a bit easier.
+
+I don't know if it should have been also centered horizontally. I tried but could not make it work. 
 
 I am happy with my first try.
 
