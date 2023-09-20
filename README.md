@@ -29,8 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Positioning with Flexbox was the main thing I learned in this exercise.
 I had a bit of trouble with the margins for the two paragraphs below the QR image. I think this could be done a bit easier.
 
-I don't know if it should have been also centered horizontally. I tried but could not make it work. 
-
 I am happy with my first try.
 
 ## Author
